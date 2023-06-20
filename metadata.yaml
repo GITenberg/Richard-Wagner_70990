@@ -1,0 +1,24 @@
+_repo: Richard-Wagner_70990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nurmi, Bruno
+    gutenberg_agent_id: '56027'
+    url: http://www.gutenberg.org/2009/agents/56027
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70990'
+language: fi
+pgterms:marc905: 20230610224510nurmi
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bWSOY, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Richard Wagner
+url: http://www.gutenberg.org/ebooks/70990
