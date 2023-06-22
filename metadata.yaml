@@ -1,11 +1,16 @@
 _repo: Richard-Wagner_70990
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nurmi, Bruno
     gutenberg_agent_id: '56027'
     url: http://www.gutenberg.org/2009/agents/56027
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70990#Richard-Wagner
 gutenberg_issued: '2023-06-16'
 identifiers:
   gutenberg: '70990'
